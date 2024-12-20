@@ -1,5 +1,12 @@
-Start Project
-ทดสอบการทำงานของ API
+**Start Project**
+- npm install
+- npm run dev สำหรับใช้ start server
+  ถ้าหาก run server ถูกต้องใน TERMINAL จะทำการ print คำว่า "Server is running on http://localhost:4000✅"
+
+  
+**ทดสอบการทำงานของ API**
+
+เปิด postman เพื่อตรวจสอบว่าการทำงานในการส่ง request ของ client สินค้าที่ user เลือกซื้อ และ response ราคาของสินค้า ถูกต้องหรือไม่
 - ตั้งค่าเป็น POST request:
 - ระบุ URL: http://localhost:4000/api/calculator
 - ในส่วน Body ของ Postman ให้เลือก raw แล้วเลือก JSON format และใส่ข้อมูลตามตัวอย่างข้อมูล JSON:
