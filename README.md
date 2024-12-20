@@ -1,6 +1,7 @@
 **Start Project**
 - npm install
-- npm run dev สำหรับใช้ start server
+- npm run dev
+  (สำหรับใช้ start server)
   ถ้าหาก run server ถูกต้องใน TERMINAL จะทำการ print คำว่า "Server is running on http://localhost:4000✅"
 
   
